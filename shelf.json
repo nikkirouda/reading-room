@@ -1,0 +1,582 @@
+{
+ "generated": "2026-11-07",
+ "source": "gutendex.com catalogue + gutenberg.org plain text (UTF-8)",
+ "books": [
+  {
+   "id": 11,
+   "title": "Alice's Adventures in Wonderland",
+   "author": "Carroll, Lewis",
+   "words": 26525,
+   "file": "books/pg11.txt",
+   "downloads": 121623
+  },
+  {
+   "id": 16,
+   "title": "Peter Pan: [Peter and Wendy]",
+   "author": "Barrie, J. M. (James Matthew)",
+   "words": 47268,
+   "file": "books/pg16.txt",
+   "downloads": 25701
+  },
+  {
+   "id": 27,
+   "title": "Far from the Madding Crowd",
+   "author": "Hardy, Thomas",
+   "words": 137190,
+   "file": "books/pg27.txt",
+   "downloads": 2370
+  },
+  {
+   "id": 35,
+   "title": "The Time Machine",
+   "author": "Wells, H. G. (Herbert George)",
+   "words": 32454,
+   "file": "books/pg35.txt",
+   "downloads": 27738
+  },
+  {
+   "id": 36,
+   "title": "The war of the worlds",
+   "author": "Wells, H. G. (Herbert George)",
+   "words": 60075,
+   "file": "books/pg36.txt",
+   "downloads": 17678
+  },
+  {
+   "id": 43,
+   "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+   "author": "Stevenson, Robert Louis",
+   "words": 25631,
+   "file": "books/pg43.txt",
+   "downloads": 71859
+  },
+  {
+   "id": 45,
+   "title": "Anne of Green Gables",
+   "author": "Montgomery, L. M. (Lucy Maud)",
+   "words": 102501,
+   "file": "books/pg45.txt",
+   "downloads": 31124
+  },
+  {
+   "id": 55,
+   "title": "The Wonderful Wizard of Oz",
+   "author": "Baum, L. Frank (Lyman Frank)",
+   "words": 39649,
+   "file": "books/pg55.txt",
+   "downloads": 38574
+  },
+  {
+   "id": 73,
+   "title": "The Red Badge of Courage: An Episode of the American Civil War",
+   "author": "Crane, Stephen",
+   "words": 46094,
+   "file": "books/pg73.txt",
+   "downloads": 9601
+  },
+  {
+   "id": 74,
+   "title": "The Adventures of Tom Sawyer, Complete",
+   "author": "Twain, Mark",
+   "words": 70800,
+   "file": "books/pg74.txt",
+   "downloads": 42779
+  },
+  {
+   "id": 76,
+   "title": "Adventures of Huckleberry Finn",
+   "author": "Twain, Mark",
+   "words": 111085,
+   "file": "books/pg76.txt",
+   "downloads": 36044
+  },
+  {
+   "id": 82,
+   "title": "Ivanhoe: A Romance",
+   "author": "Scott, Walter",
+   "words": 191641,
+   "file": "books/pg82.txt",
+   "downloads": 5329
+  },
+  {
+   "id": 84,
+   "title": "Frankenstein; or, The modern Prometheus",
+   "author": "Shelley, Mary Wollstonecraft",
+   "words": 75042,
+   "file": "books/pg84.txt",
+   "downloads": 182729
+  },
+  {
+   "id": 98,
+   "title": "A Tale of Two Cities",
+   "author": "Dickens, Charles",
+   "words": 135886,
+   "file": "books/pg98.txt",
+   "downloads": 50704
+  },
+  {
+   "id": 103,
+   "title": "Around the World in Eighty Days",
+   "author": "Verne, Jules",
+   "words": 63334,
+   "file": "books/pg103.txt",
+   "downloads": 20292
+  },
+  {
+   "id": 105,
+   "title": "Persuasion",
+   "author": "Austen, Jane",
+   "words": 83335,
+   "file": "books/pg105.txt",
+   "downloads": 18808
+  },
+  {
+   "id": 110,
+   "title": "Tess of the d'Urbervilles: A Pure Woman",
+   "author": "Hardy, Thomas",
+   "words": 150042,
+   "file": "books/pg110.txt",
+   "downloads": 9127
+  },
+  {
+   "id": 113,
+   "title": "The Secret Garden",
+   "author": "Burnett, Frances Hodgson",
+   "words": 80632,
+   "file": "books/pg113.txt",
+   "downloads": 18922
+  },
+  {
+   "id": 120,
+   "title": "Treasure Island",
+   "author": "Stevenson, Robert Louis",
+   "words": 68637,
+   "file": "books/pg120.txt",
+   "downloads": 31688
+  },
+  {
+   "id": 135,
+   "title": "Les Misérables",
+   "author": "Hugo, Victor",
+   "words": 565612,
+   "file": "books/pg135.txt",
+   "downloads": 19245
+  },
+  {
+   "id": 145,
+   "title": "Middlemarch",
+   "author": "Eliot, George",
+   "words": 316381,
+   "file": "books/pg145.txt",
+   "downloads": 70535
+  },
+  {
+   "id": 155,
+   "title": "The Moonstone",
+   "author": "Collins, Wilkie",
+   "words": 194909,
+   "file": "books/pg155.txt",
+   "downloads": 21740
+  },
+  {
+   "id": 158,
+   "title": "Emma",
+   "author": "Austen, Jane",
+   "words": 157558,
+   "file": "books/pg158.txt",
+   "downloads": 24182
+  },
+  {
+   "id": 161,
+   "title": "Sense and Sensibility",
+   "author": "Austen, Jane",
+   "words": 118860,
+   "file": "books/pg161.txt",
+   "downloads": 37222
+  },
+  {
+   "id": 164,
+   "title": "Twenty Thousand Leagues under the Sea",
+   "author": "Verne, Jules",
+   "words": 104672,
+   "file": "books/pg164.txt",
+   "downloads": 15583
+  },
+  {
+   "id": 174,
+   "title": "The Picture of Dorian Gray",
+   "author": "Wilde, Oscar",
+   "words": 78979,
+   "file": "books/pg174.txt",
+   "downloads": 52851
+  },
+  {
+   "id": 203,
+   "title": "Uncle Tom's Cabin",
+   "author": "Stowe, Harriet Beecher",
+   "words": 180924,
+   "file": "books/pg203.txt",
+   "downloads": 13894
+  },
+  {
+   "id": 215,
+   "title": "The call of the wild",
+   "author": "London, Jack",
+   "words": 31824,
+   "file": "books/pg215.txt",
+   "downloads": 19679
+  },
+  {
+   "id": 219,
+   "title": "Heart of Darkness",
+   "author": "Conrad, Joseph",
+   "words": 37917,
+   "file": "books/pg219.txt",
+   "downloads": 23064
+  },
+  {
+   "id": 236,
+   "title": "The Jungle Book",
+   "author": "Kipling, Rudyard",
+   "words": 50839,
+   "file": "books/pg236.txt",
+   "downloads": 18135
+  },
+  {
+   "id": 271,
+   "title": "Black Beauty: The autobiography of a horse",
+   "author": "Sewell, Anna",
+   "words": 59961,
+   "file": "books/pg271.txt",
+   "downloads": 13472
+  },
+  {
+   "id": 284,
+   "title": "The House of Mirth",
+   "author": "Wharton, Edith",
+   "words": 129318,
+   "file": "books/pg284.txt",
+   "downloads": 4540
+  },
+  {
+   "id": 289,
+   "title": "The Wind in the Willows",
+   "author": "Grahame, Kenneth",
+   "words": 58426,
+   "file": "books/pg289.txt",
+   "downloads": 10554
+  },
+  {
+   "id": 345,
+   "title": "Dracula",
+   "author": "Stoker, Bram",
+   "words": 161321,
+   "file": "books/pg345.txt",
+   "downloads": 78131
+  },
+  {
+   "id": 421,
+   "title": "Kidnapped",
+   "author": "Stevenson, Robert Louis",
+   "words": 81903,
+   "file": "books/pg421.txt",
+   "downloads": 9248
+  },
+  {
+   "id": 514,
+   "title": "Little Women",
+   "author": "Alcott, Louisa May",
+   "words": 186112,
+   "file": "books/pg514.txt",
+   "downloads": 23413
+  },
+  {
+   "id": 521,
+   "title": "The Life and Adventures of Robinson Crusoe",
+   "author": "Defoe, Daniel",
+   "words": 120920,
+   "file": "books/pg521.txt",
+   "downloads": 16116
+  },
+  {
+   "id": 541,
+   "title": "The Age of Innocence",
+   "author": "Wharton, Edith",
+   "words": 101383,
+   "file": "books/pg541.txt",
+   "downloads": 6364
+  },
+  {
+   "id": 583,
+   "title": "The Woman in White",
+   "author": "Collins, Wilkie",
+   "words": 244765,
+   "file": "books/pg583.txt",
+   "downloads": 21915
+  },
+  {
+   "id": 599,
+   "title": "Vanity Fair",
+   "author": "Thackeray, William Makepeace",
+   "words": 302384,
+   "file": "books/pg599.txt",
+   "downloads": 9040
+  },
+  {
+   "id": 730,
+   "title": "Oliver Twist",
+   "author": "Dickens, Charles",
+   "words": 157969,
+   "file": "books/pg730.txt",
+   "downloads": 21249
+  },
+  {
+   "id": 766,
+   "title": "David Copperfield",
+   "author": "Dickens, Charles",
+   "words": 354826,
+   "file": "books/pg766.txt",
+   "downloads": 16140
+  },
+  {
+   "id": 768,
+   "title": "Wuthering Heights",
+   "author": "Brontë, Emily",
+   "words": 115945,
+   "file": "books/pg768.txt",
+   "downloads": 35636
+  },
+  {
+   "id": 829,
+   "title": "Gulliver's Travels into Several Remote Nations of the World",
+   "author": "Swift, Jonathan",
+   "words": 105079,
+   "file": "books/pg829.txt",
+   "downloads": 18824
+  },
+  {
+   "id": 910,
+   "title": "White Fang",
+   "author": "London, Jack",
+   "words": 72179,
+   "file": "books/pg910.txt",
+   "downloads": 12063
+  },
+  {
+   "id": 996,
+   "title": "Don Quixote",
+   "author": "Cervantes Saavedra, Miguel de",
+   "words": 427246,
+   "file": "books/pg996.txt",
+   "downloads": 20435
+  },
+  {
+   "id": 1023,
+   "title": "Bleak House",
+   "author": "Dickens, Charles",
+   "words": 353463,
+   "file": "books/pg1023.txt",
+   "downloads": 16093
+  },
+  {
+   "id": 1184,
+   "title": "The Count of Monte Cristo",
+   "author": "Dumas, Alexandre; Maquet, Auguste",
+   "words": 460965,
+   "file": "books/pg1184.txt",
+   "downloads": 53145
+  },
+  {
+   "id": 1257,
+   "title": "The three musketeers",
+   "author": "Dumas, Alexandre; Maquet, Auguste",
+   "words": 229429,
+   "file": "books/pg1257.txt",
+   "downloads": 13775
+  },
+  {
+   "id": 1260,
+   "title": "Jane Eyre: An Autobiography",
+   "author": "Brontë, Charlotte",
+   "words": 185390,
+   "file": "books/pg1260.txt",
+   "downloads": 57519
+  },
+  {
+   "id": 1342,
+   "title": "Pride and Prejudice",
+   "author": "Austen, Jane",
+   "words": 127360,
+   "file": "books/pg1342.txt",
+   "downloads": 208430
+  },
+  {
+   "id": 1399,
+   "title": "Anna Karenina",
+   "author": "Tolstoy, Leo, graf",
+   "words": 349763,
+   "file": "books/pg1399.txt",
+   "downloads": 18887
+  },
+  {
+   "id": 1400,
+   "title": "Great Expectations",
+   "author": "Dickens, Charles",
+   "words": 184478,
+   "file": "books/pg1400.txt",
+   "downloads": 38268
+  },
+  {
+   "id": 1661,
+   "title": "The Adventures of Sherlock Holmes",
+   "author": "Doyle, Arthur Conan",
+   "words": 104506,
+   "file": "books/pg1661.txt",
+   "downloads": 96353
+  },
+  {
+   "id": 1727,
+   "title": "The Odyssey: Rendered into English prose for the use of those who cannot read the original",
+   "author": "Homer",
+   "words": 129571,
+   "file": "books/pg1727.txt",
+   "downloads": 46518
+  },
+  {
+   "id": 1837,
+   "title": "The Prince and the Pauper",
+   "author": "Twain, Mark",
+   "words": 70059,
+   "file": "books/pg1837.txt",
+   "downloads": 12109
+  },
+  {
+   "id": 1952,
+   "title": "The Yellow Wallpaper",
+   "author": "Gilman, Charlotte Perkins",
+   "words": 6085,
+   "file": "books/pg1952.txt",
+   "downloads": 46806
+  },
+  {
+   "id": 2413,
+   "title": "Madame Bovary",
+   "author": "Flaubert, Gustave",
+   "words": 115664,
+   "file": "books/pg2413.txt",
+   "downloads": 8686
+  },
+  {
+   "id": 2500,
+   "title": "Siddhartha",
+   "author": "Hesse, Hermann",
+   "words": 39157,
+   "file": "books/pg2500.txt",
+   "downloads": 10102
+  },
+  {
+   "id": 2554,
+   "title": "Crime and Punishment",
+   "author": "Dostoyevsky, Fyodor",
+   "words": 203612,
+   "file": "books/pg2554.txt",
+   "downloads": 62172
+  },
+  {
+   "id": 2591,
+   "title": "Grimms' Fairy Tales",
+   "author": "Grimm, Jacob; Grimm, Wilhelm",
+   "words": 101111,
+   "file": "books/pg2591.txt",
+   "downloads": 37383
+  },
+  {
+   "id": 2600,
+   "title": "War and Peace",
+   "author": "Tolstoy, Leo, graf",
+   "words": 563286,
+   "file": "books/pg2600.txt",
+   "downloads": 48773
+  },
+  {
+   "id": 2610,
+   "title": "Notre-Dame de Paris",
+   "author": "Hugo, Victor",
+   "words": 184594,
+   "file": "books/pg2610.txt",
+   "downloads": 7362
+  },
+  {
+   "id": 2701,
+   "title": "Moby Dick; Or, The Whale",
+   "author": "Melville, Herman",
+   "words": 212796,
+   "file": "books/pg2701.txt",
+   "downloads": 168089
+  },
+  {
+   "id": 2852,
+   "title": "The Hound of the Baskervilles",
+   "author": "Doyle, Arthur Conan",
+   "words": 59260,
+   "file": "books/pg2852.txt",
+   "downloads": 25500
+  },
+  {
+   "id": 4300,
+   "title": "Ulysses",
+   "author": "Joyce, James",
+   "words": 265059,
+   "file": "books/pg4300.txt",
+   "downloads": 37607
+  },
+  {
+   "id": 5200,
+   "title": "Metamorphosis",
+   "author": "Kafka, Franz",
+   "words": 21935,
+   "file": "books/pg5200.txt",
+   "downloads": 53906
+  },
+  {
+   "id": 6130,
+   "title": "The Iliad",
+   "author": "Homer",
+   "words": 189218,
+   "file": "books/pg6130.txt",
+   "downloads": 16648
+  },
+  {
+   "id": 25344,
+   "title": "The Scarlet Letter",
+   "author": "Hawthorne, Nathaniel",
+   "words": 83826,
+   "file": "books/pg25344.txt",
+   "downloads": 40216
+  },
+  {
+   "id": 28054,
+   "title": "The Brothers Karamazov",
+   "author": "Dostoyevsky, Fyodor",
+   "words": 350685,
+   "file": "books/pg28054.txt",
+   "downloads": 30834
+  },
+  {
+   "id": 64317,
+   "title": "The Great Gatsby",
+   "author": "Fitzgerald, F. Scott (Francis Scott)",
+   "words": 48208,
+   "file": "books/pg64317.txt",
+   "downloads": 50662
+  },
+  {
+   "id": 67979,
+   "title": "The Blue Castle: a novel",
+   "author": "Montgomery, L. M. (Lucy Maud)",
+   "words": 68274,
+   "file": "books/pg67979.txt",
+   "downloads": 62659
+  }
+ ]
+}
